@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aclevo Blog</title>
+    <description>The Official Aclevo Blog
+</description>
+    <link>https://aclv.github.io/blog/blog/</link>
+    <atom:link href="https://aclv.github.io/blog/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 12 Mar 2017 18:22:02 -0700</pubDate>
+    <lastBuildDate>Sun, 12 Mar 2017 18:22:02 -0700</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Welcome to the Aclevo Blog</title>
+        <description>&lt;p&gt;Welcome to the Aclevo Blog! This is where you can get updates on all things Aclevo. If you were looking for our main website go to (https://aclevo.xyz).&lt;/p&gt;
+</description>
+        <pubDate>Sun, 12 Mar 2017 18:10:42 -0700</pubDate>
+        <link>https://aclv.github.io/blog/blog/info/2017/03/12/welcome-to-the-aclevo-blog.html</link>
+        <guid isPermaLink="true">https://aclv.github.io/blog/blog/info/2017/03/12/welcome-to-the-aclevo-blog.html</guid>
+        
+        
+        <category>info</category>
+        
+      </item>
+    
+  </channel>
+</rss>

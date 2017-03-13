@@ -1,2 +1,0 @@
-# blog
-Official Aclevo Blog
